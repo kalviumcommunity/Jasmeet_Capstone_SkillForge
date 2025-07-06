@@ -16,21 +16,21 @@ Unlike complex productivity apps, SkillForge is intentionally minimalist. It eli
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ **Skill Selection** – Choose 2–3 core skills to focus on  
-- 📆 **Daily Goal Planning** – Break down skills into daily tasks  
-- 🔥 **Streak Tracker** – Visualize consistency and habits  
-- 📊 **Weekly Summary** – Monitor weekly achievements  
-- 🌙 **Minimalist Dark UI** – Distraction-free experience  
-- 💾 **Local Progress Storage** – Track without logging in  
-- ☁️ **Optional Airtable Integration** – Save data to the cloud
+-  **Skill Selection** – Choose 2–3 core skills to focus on  
+-  **Daily Goal Planning** – Break down skills into daily tasks  
+-  **Streak Tracker** – Visualize consistency and habits  
+-  **Weekly Summary** – Monitor weekly achievements  
+-  **Minimalist Dark UI** – Distraction-free experience  
+-  **Local Progress Storage** – Track without logging in  
+- ☁ **Optional Airtable Integration** – Save data to the cloud
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 
 - React.js  
 - TailwindCSS  
@@ -38,13 +38,13 @@ Unlike complex productivity apps, SkillForge is intentionally minimalist. It eli
 - Framer Motion (optional)  
 - Axios (HTTP requests)
 
-### 🗄️ Backend (Optional / Future)
+###  Backend (Optional / Future)
 
 - Firebase or Airtable for backend data sync  
 - Express.js (if backend is custom-built)  
 - LocalStorage for MVP version
 
-### 🧰 Other Tools
+###  Other Tools
 
 - Vercel – Deployment  
 - Figma – UI/UX design  
@@ -52,23 +52,23 @@ Unlike complex productivity apps, SkillForge is intentionally minimalist. It eli
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
-### 1. 🛠️ Skill Setup
+### 1. Skill Setup
 Users select 2–3 core skills to work on.  
 Each skill has micro-daily tasks (e.g., “Write 100 words”).
 
-### 2. ✅ Daily Tracker
+### 2. Daily Tracker
 Users mark completed tasks and build streaks.  
 Weekly summaries provide visual progress feedback.
 
-### 3. 🎨 Visual Feedback
+### 3. Visual Feedback
 Color-coded streak bars and cards track effort.  
 Optional backend allows sync across devices.
 
 ---
 
-## 📅 Weekly Capstone Plan
+##  Weekly Capstone Plan
 
 ###  Week 1: Planning & UI
 
@@ -102,11 +102,11 @@ Optional backend allows sync across devices.
 
 ##  Future Enhancements
 
-- 📱 Mobile App with React Native  
-- 🔐 Login system with sync  
-- 📈 Analytics dashboard  
-- 🤖 AI-generated goal suggestions  
-- 🎭 Community gallery of learning journeys
+-  Mobile App with React Native  
+-  Login system with sync  
+-  Analytics dashboard  
+-  AI-generated goal suggestions  
+-  Community gallery of learning journeys
 
 ---
 
